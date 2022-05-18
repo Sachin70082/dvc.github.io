@@ -52,8 +52,8 @@ body {
     opacity: .9;
   }
   .imagebox{
-    width: 14rem;
-    height: 14rem;
+    width: 12rem;
+    height: 12rem;
     position: relative;
     overflow: hidden;
     background-size: cover;
