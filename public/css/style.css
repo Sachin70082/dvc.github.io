@@ -49,7 +49,7 @@ body {
     background: linear-gradient(to bottom right, #7E5BD6, #673DD6);
     transform-origin: left bottom;
     transform: skewY(-15deg);
-    opacity: .9;
+
   }
   .imagebox{
     width: 12rem;
