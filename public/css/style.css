@@ -140,13 +140,10 @@ padding: 20px 2rem;
       
       }
       .imagebox{
-          position: absolute;
-          overflow: hidden;
-          top: 0;
+         
       }
       .imagebox img{
-          width: 100%;
-          height: auto;
+          
       }
       .logo{
         position: absolute;
