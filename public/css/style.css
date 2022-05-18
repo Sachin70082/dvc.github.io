@@ -134,7 +134,7 @@ padding: 20px 2rem;
     color: #222;
 }
 
-@media only screen and (man-width: 500px) {
+@media only screen and (max-width: 500px) {
 
       .slanted-div {
         width: 100%;
