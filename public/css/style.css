@@ -137,11 +137,7 @@ padding: 20px 2rem;
 @media only screen and (max-width: 500px) {
 
       .slanted-div {
-        width: 100%;
-        height: 25rem;
-        background: linear-gradient(to bottom right, #7E5BD6, #673DD6);
-        transform-origin: left bottom;
-        transform: skewY(-7deg);
+      
       }
       .imagebox{
           position: absolute;
